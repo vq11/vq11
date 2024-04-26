@@ -26,13 +26,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### 🔧 Languages and Tools :
 <div>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" title="C#" alt="C#" width="50" height="50"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title="net" alt="net" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="json" alt="json" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="msql" alt="msql" width="40" height="40"/>&nbsp;
